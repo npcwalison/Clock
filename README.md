@@ -2,7 +2,7 @@
 
 Este é um projeto simples de um timer desenvolvido com HTML, CSS e JavaScript.
 
-![Timer](./timer.png)
+![Timer](./image.png)
 
 ## Como usar
 
